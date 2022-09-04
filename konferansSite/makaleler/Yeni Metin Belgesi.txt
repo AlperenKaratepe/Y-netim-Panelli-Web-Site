@@ -1,0 +1,13 @@
+k-Means algoritması nedir ve özellikleri nelerdir? 15,20,21,22,28,35,41,60,61,65 yaşlarına sahip bir topluluk için Yaşlı, Genç kümelemesi yapılacaktır.
+ cgenç=18, cyaşlı=29 başlangıç değerleri için 3 iterasyon sonra kümelerin ağırlık merkezlerini hesaplayınız.
+
+
+Bir tane gizli katmandan oluşan bir MLP için: Giriş katmanı (5 nöron), gizli katman (10 nöron) ve çıkış olarak 2 çıkışlı bir model çiziniz.
+ Zincir kuralını kullanarak, 3.Giriş nöronu ve gizli katmandaki 7.nöronu arasındaki ağırlığın (weight) güncellemesini geri yönlü beslemeyle formüle ediniz. 
+
+
+k-NN algoritmasını açıklayınız. 23, 45, 40, 27, 56, 48 değerlerinin sınıfları sırasıyla E, E, H, E, H, H dir.
+ 43 değerinin k-NN kullanarak hangi sınıfa ait olduğunu hesaplayınız.
+
+
+Soruları kağıda el yazınızla cevaplayınız. Cevaplamayı bitirince kağıdın cevaplar net görünecek şekilde fotoğrafını çekip sıkıştırarak 07.05.2020 Perşembe Günü Saat:17:00'e kadar sisteme yükleyiniz. Bu süreye kadar yüklenme yapmayan öğrenci sınava girmemiş sayılacaktır.
